@@ -1,0 +1,52 @@
+commit 8f0f8929dbc43ea6f0d84bbbc2ff2ce3940caa23
+Merge: dd95598 7148f66
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:35:09 2026 -0800
+
+    Merge branch 'index-fix'
+
+commit 7148f66f688a56fe0eb3518a66300739ebb76dee
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:31:51 2026 -0800
+
+    Commit my fixed index.html
+
+commit dd9559898b17ab9493b12f9685793548ab31e4fa
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:29:15 2026 -0800
+
+    Commit updated index.html
+
+commit 3c2344cab3eb75fa0a9907bb89a7a4b0d02e5a40
+Merge: 6b9fd2b 7dd28dc
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:23:53 2026 -0800
+
+    README.md
+
+commit 6b9fd2bfde81a45cf3bbb0448e86d34c28f558e1
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:03:55 2026 -0800
+
+    Commit my README
+
+commit 7dd28dcf7d75f0f3bae3db269a483bb3f4cd77c8
+Merge: 1d2bfc0 828368a
+Author: Joshua Xotoy <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 12:01:54 2026 -0800
+
+    Merge pull request #1 from DehydratedLemon/info-fill
+    
+    Commit my index.html changes
+
+commit 828368a700c89a6c383a226b5c579b3ff49f9fb8
+Author: Joshua <joshua.xotoy2005@gmail.com>
+Date:   Fri Jan 30 11:57:52 2026 -0800
+
+    Commit my index.html changes
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
